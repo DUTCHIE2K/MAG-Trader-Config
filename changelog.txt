@@ -1,1 +1,51 @@
-# MAG-Trader-Config
+29-09-2021
+----------
+
+- Added ammunition classnames Ammo_127x55 and Ammo_338 to be sold to trader by each 10 bullets.
+- Added ammunition box classnames AmmoBox_127x55, AmmoBox_338 and AmmoBox_22_50Rnd to be sold to player and vice versa.
+
+- Added "CPB" magazine classnames Mag_lebedev_PL15_16Rnd, ASH12_Magazine_10rnd and ASH12_Magazine_20rnd 
+- Added "Arma II" magazine classname A2HKM5_SD_Magazine.
+- Added vanilla magazine classnames Mag_AK74_45Rnd and Mag_SG_30Rnd
+
+- Increased attachments buyprices, buttstocks and handguard prices from 150-200 to 600-900. 
+- Increased/reduced optics buy/sell prices according to their advantages and features, and re-ordered the list from low to high price.
+
+- Increased suppressor selling prices from 250 to 2.2k, increasing buy/sell ratio from 1.96% to 17.32%.
+- Evened all bayonet attachments to 1.5k 
+
+- Added "Munghards" Jaakari backpack classnames (jakari_black_mung as example) to trader.
+
+- Removed "T1" classname, invalid.
+
+- Made all Gh0st custom ghilliesuits able to be sold.
+
+- BLACK MARKET - 
+
+- The weapons have been tested to their recoil control, fire rate and attachment variety. Especially attachment variety. For example, the HK416 has a very high fire rate, a built-in suppressor and has the option to attach a AS-VAL vertical foregrip, which reduces the vertical recoil and muzzle drift by roughly 30-40%.
+
+- The weapons have been ordered from low to high price.
+
+- BM magazine classnames FD338_20rnd_mag, ASH12_Magazine_10rnd and ASH12_Magazine_20rnd have been added.
+- Ammo boxes AmmoBox_50Cal and AmmoBox_127x55 have been added.
+- Added Toxic Cure to NBC Gear category in BM trader.
+
+- Helicopter classes have been increased in price according to thei cargo space and fuel consumption.
+
+- UH1D from 200k to 350k
+- Bird RF from 200k t0 250k
+- BIORust from 200k to 300k 
+- Police Raid from 200k to 350k
+- Black Hawk SIB from 1M to 800k 
+
+
+
+
+>>> Current work in progress <<<
+
+- Working on Gorka and GM weapon prices is still in progress.
+- Tools and base supplies
+- Food supplies
+- Hunting trader
+- Additional missing items
+
