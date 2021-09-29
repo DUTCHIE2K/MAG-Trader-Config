@@ -8,6 +8,16 @@
 - Added "Arma II" magazine classname A2HKM5_SD_Magazine.
 - Added vanilla magazine classnames Mag_AK74_45Rnd and Mag_SG_30Rnd
 
+- Slightly increased some grenade selling prices
+- Increased RPG7 rocket ammunition from 110 to 750
+- Slightly increased some of the cheaper melee weapons. (Brassknuckles for example was 40 buy price0
+
+- Increased medical supplies significantly regarding how easy and accessible it is to heal yourself from various diseases and infections being around a trader.
+- Reduced toxic cure buy prices at Gorka/GMT from 5k to 4k, and increased sell prices from 300 to 750 (Don't even know if these are in the loot table)
+
+- Added Soda_Kvass to drinks
+- Added Honey to food supplies
+
 - Increased attachments buyprices, buttstocks and handguard prices from 150-200 to 600-900. 
 - Increased/reduced optics buy/sell prices according to their advantages and features, and re-ordered the list from low to high price.
 
