@@ -88,7 +88,7 @@
 		VitaminBottle,			*,		650,		150
 		TetracyclineAntibiotics,*,		750,		150
 		PainkillerTablets,		*,		750,		175
-	    Epinephrine,			*,		750,		200
+	        Epinephrine,			*,		750,		200
 		Morphine,			    *,		750,		200
 		
 	<Category> Money Exchange
@@ -151,8 +151,8 @@
 		BBP_Cement,				*,		2500,	    30
 		BBP_Mortar_Mix,			*,		2500,		30
 		BBP_Wood_Storage,		*,		-1,			100
-		BBP_Old_Lamp,			*,		50000,		100
-		BBP_Floor_Lamp,			*,		50000,		100
+		BBP_Old_Lamp,			*,		27000,		100
+		BBP_Floor_Lamp,			*,		35000,		100
 		BBP_Sun_Shade,			*,		-1,			100
 		BBP_Tape_Measure,		*,		-1,			10
 		BBP_Painting,			*,		15000,		100
@@ -196,21 +196,21 @@
 		BBP_T2_FoundationKit,	*,		-1,			300
 		BBP_T3_FoundationKit,	*,		-1,			500
 		BBP_PillarKit,			*,		-1,			100
-		BBP_BedKit,				*,		100000,		100
+		BBP_BedKit,				*,		50000,		100
 		BBP_Bedding,			*,		5000,		60
 		BBP_Step_LadderKit,		*,		-1,			100
 		BBP_T2_WindowKit,		*,		-1,			100
 		BBP_T3_StairKit,		*,		-1,			100
 		BBP_Plaster,			*,		20000,		1000
 		BBP_Bucket,				*,		10000,		5000
-		BBP_WellKit,			*,		10100,		5050
+		BBP_WellKit,			*,		10000,		5050
 		BBP_T1_Roof_HatchKit,	*,		-1,			100
 		BBP_T2_Roof_HatchKit,	*,		-1,			100
 		BBP_T3_Roof_HatchKit,	*,		-1,			600
 		BBP_T2_StairKit,		*,		-1,			300
 		BBP_Wheelbarrow,		*,		-1,			200
-		BBP_Toilet,			    *,		75000,		300
-		BBP_SofaKit,			*,		75000,		400
+		BBP_Toilet,			    *,		50000,		300
+		BBP_SofaKit,			*,		50000,		400
 		BBP_Dance_FloorKit,		*,		50000,		200
 			
 	<Category> Flags
@@ -452,18 +452,18 @@
 		NVGoggles,				*,		20000,		2200		
 			
 	<Category> Fire & Lights
-		Chemlight_Blue,			*,		50,		    10
-		Chemlight_Green,		*,		50,		    10
-		Chemlight_Red,			*,		50,		    10
-		Chemlight_White,		*,		50,		    10
-		Chemlight_Yellow,		*,		50,		    10
-		Roadflare,				*,		40,		    20
-		Matchbox,				*,		60,		    30
-		Flashlight,				*,		150,		90
-		PortableGasLamp,		*,		25,		    10
-		PortableGasStove,		*,		30,		    15
-		Headtorch_Black,		*,		40,		    20
-		Headtorch_Grey,			*,		40,		    20
+		Chemlight_Blue,			*,		150,		    10
+		Chemlight_Green,		*,		150,		    10
+		Chemlight_Red,			*,		150,		    10
+		Chemlight_White,		*,		150,		    10
+		Chemlight_Yellow,		*,		150,		    10
+		Roadflare,				*,		450,		    20
+		Matchbox,				*,		300,		    30
+		Flashlight,				*,		350,		90
+		PortableGasLamp,		*,		250,		    10
+		PortableGasStove,		*,		300,		    15
+		Headtorch_Black,		*,		250,		    20
+		Headtorch_Grey,			*,		250,		    20
 		Spotlight,				*,		1900,		1500
 		maglite_mung,			*,		-1,			300
 		oillamp_mung,			*,		-1,			300
@@ -525,10 +525,10 @@
 		Barrel_Red,				M,		4500,		900
 		Barrel_Yellow,			M,		4500,		900
 		SeaChest,				*,		7500,		900
-		PowerGenerator,			*,		15000,		3000
+		PowerGenerator,			*,		20000,		3000
 		MediumTent,				*,		65000,		800		
-		CarTent,				*,		105000,		900
 		LargeTent,				*,		85000,		800
+		CarTent,				*,		105000,		900
 		makeshifttent_mung,		*,		1000,	 	500	
 				
 	<Category> Seeds & Lime
