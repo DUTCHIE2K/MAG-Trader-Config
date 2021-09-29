@@ -1,0 +1,1 @@
+# MAG-Trader-Config
