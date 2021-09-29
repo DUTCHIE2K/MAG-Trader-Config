@@ -1,4 +1,4 @@
-﻿<CurrencyName> #tm_ruble
+<CurrencyName> #tm_ruble
 	<Currency> MoneyRuble1, 	1
 	<Currency> MoneyRuble5, 	5
 	<Currency> MoneyRuble10, 	10
@@ -41,7 +41,7 @@
 		BakedBeansCan,			*,		500,	50
 		TacticalBaconCan,		*,		500,	50
 		SaltySticks,			*,		500,	50	
-		UnknownFoodCan,			*,		500,	50
+		UnknownFoodCan,			*,		650,	50
 		pickles_closed,         *,      300,    50
 	
 	<Category> Animal Parts
@@ -56,10 +56,10 @@
 		SodaCan_Pipsi, 			*,		200, 		70
 		SodaCan_Spite, 			*,		200, 		70
 		WaterBottle,			*,		300,		70
-		Vodka,					*,		300,		150
-		Canteen,			    *,		250,		100
-		Canteen_black,          *,      100,        25
-        Canteen_white,          *,      100,        25
+		Vodka,					*,		300,		90
+		Canteen,			    *,		550,		100
+		Canteen_black,          *,      550,        100
+        Canteen_white,          *,      550,        100
 		
 	<Category> Medical Supplies
 		BloodTestKit,			*,		200,		25
